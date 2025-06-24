@@ -11,7 +11,7 @@
   wcwidth,
   xlib,
   evdev,
-  psutil
+  psutil,
   pkginfo,
   pygments,
   readme-renderer,
