@@ -56,6 +56,7 @@ buildPythonPackage {
     setuptools
     certifi
     evdev
+    psutil
     pkginfo
     pygments
     readme-renderer
