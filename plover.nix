@@ -1,5 +1,4 @@
 {
-  adwaita-qt,
   appdirs,
   Babel,
   buildPythonPackage,
@@ -48,7 +47,6 @@ buildPythonPackage {
   ];
 
   propagatedBuildInputs = [
-    adwaita-qt6
     Babel
     pyside6
     xlib
