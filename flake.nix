@@ -1,8 +1,9 @@
 {
   inputs = {
     # Temporarily pinned nixpkgs
-    nixpkgs.url = "github:NixOS/nixpkgs/2631b0b7abcea6e640ce31cd78ea58910d31e650";
+    #nixpkgs.url = "github:NixOS/nixpkgs/2631b0b7abcea6e640ce31cd78ea58910d31e650";
     # nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
 
     plover = {
       url = "github:openstenoproject/plover";
